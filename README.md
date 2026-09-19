@@ -13,7 +13,7 @@
   <a href="https://seaglass.gicp.fun/">https://seaglass.gicp.fun/</a>
 </p>
 
-> *说明：本作业主体为 Python 独立开发。为方便在线体验与展示，额外制作了 HTML 网页版。*
+> *温馨提示：该网址只能用浏览器打开。本作业主体为 Python 独立开发。为方便在线体验与展示，额外制作了 HTML 网页版。*
 
 </div>
 
